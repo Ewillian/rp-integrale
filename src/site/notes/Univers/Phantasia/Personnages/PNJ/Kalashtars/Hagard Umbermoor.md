@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/univers/phantasia/personnages/pnj/kalashtars/hagard-umbermoor/","tags":["gardenEntry"],"dg-note-properties":{"lastSync":"Sun Apr 19 2026 19:09:35 GMT+0200 (Central European Summer Time)","Type":"Personnage","Temporalité":["Présent"],"aliases":["Hagard"],"Origine":"[[Tresse]]","Races":["[[Kalashtar]]"],"Monde":"[[Phantasia]]"}}
+{"dg-publish":true,"permalink":"/univers/phantasia/personnages/pnj/kalashtars/hagard-umbermoor/","dg-note-properties":{"lastSync":"Mon Apr 20 2026 10:38:35 GMT+0200 (heure d’été d’Europe centrale)","Type":"Personnage","Temporalité":["Présent"],"aliases":["Hagard"],"Origine":"[[Tresse]]","Races":["[[Kalashtar]]"],"Monde":"[[Phantasia]]"}}
 ---
 
 ![HagardUmbermoor 1.png](/img/user/Images/Personnage/HagardUmbermoor%201.png)
