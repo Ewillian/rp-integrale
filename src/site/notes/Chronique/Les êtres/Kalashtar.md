@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chronique/les-etres/kalashtar/","dg-note-properties":{"lastSync":"Wed Apr 22 2026 12:45:56 GMT+0200 (Central European Summer Time)","Source":"[[Lore-Commun/Races-Generiques/Kalashtar/Kalashtar|Kalashtar]]"}}
+{"dg-publish":true,"permalink":"/chronique/les-etres/kalashtar/","dg-note-properties":{"lastSync":"Thu Apr 23 2026 13:54:43 GMT+0200 (heure d’été d’Europe centrale)","Source":"[[Lore-Commun/Races-Generiques/Kalashtar/Kalashtar|Kalashtar]]"}}
 ---
 
 Il y a des peuples que l’on reconnaît à leur présence avant même d’en distinguer les contours. Les [[Lore-Commun/Races-Generiques/Kalashtar/Kalashtar\|Kalashtars]] appartiennent à cette catégorie. Non pas par excès, ni par éclat — mais par une forme de silence habité, comme si quelque chose, en eux, continuait de parler ailleurs.
 
 Je les ai longtemps observés sans parvenir à décider s’ils étaient réellement seuls dans leur propre corps. Le mot _possession_ revient souvent chez ceux qui les décrivent, mais il est inexact. Ce que j’ai vu ressemble davantage à une coexistence ancienne, stabilisée, presque ritualisée. Deux volontés, peut-être, apprenant à ne plus se contredire.
 
-![Pasted image 20260422124529.png](/img/user/Pasted%20image%2020260422124529.png)
+![GwendUmbermoor.png](/img/user/Images/Personnage/GwendUmbermoor.png)
 
 Ils pourraient passer pour des [[Chronique/Les êtres/Humains\|humains]], à distance. C’est une illusion brève.
 
@@ -28,12 +28,12 @@ Ils occupent des rôles d’équilibre : conseillers, médiateurs, guérisseurs.
 
 Les autres peuples les décrivent souvent comme calmes. Le mot est pauvre.
 
-Les [[Lore-Commun/Races-Generiques/Elfe/Elfes\|elfes]] y reconnaissent une forme de discipline intérieure. Les [[Lore-Commun/Races-Generiques/Nain/Nains\|nains]] une stabilité utile. Les [[Chronique/Les êtres/Humains\|humains]], eux, oscillent entre admiration et incompréhension, comme s’ils ne savaient pas si cette sérénité était une force ou une distance.
+Les [[Lore-Commun/Races-Generiques/Elfe/Elfes\|Lore-Commun/Races-Generiques/Elfe/Elfes]] y reconnaissent une forme de discipline intérieure. Les [[Lore-Commun/Races-Generiques/Nain/Nains\|Lore-Commun/Races-Generiques/Nain/Nains]] une stabilité utile. Les [[Chronique/Les êtres/Humains\|humains]], eux, oscillent entre admiration et incompréhension, comme s’ils ne savaient pas si cette sérénité était une force ou une distance.
 
 Les [[Lore-Commun/Races-Generiques/Kalashtar/Kalashtar\|Kalashtars]], de leur côté, semblent toujours déjà en conversation avec autre chose. Cela rend leurs interactions mesurées, parfois déroutantes. Ils répondent rarement à ce qui est dit uniquement, mais à ce qui est sous-entendu — ou, plus troublant encore, à ce qui n’a pas encore été formulé.
 
 Ils se tiennent à distance des influences instables. Non par peur au sens strict, mais par reconnaissance d’un risque plus intime : ce qui déséquilibre le monde déséquilibre aussi ce qui les traverse.
-![Pasted image 20260422124552.png](/img/user/Pasted%20image%2020260422124552.png)
+![Kalashtar 1.png](/img/user/Images/Personnage/Kalashtar%201.png)
 
 
 Je n’ai jamais vu chez eux de dévotion spectaculaire. Rien qui cherche à se montrer.

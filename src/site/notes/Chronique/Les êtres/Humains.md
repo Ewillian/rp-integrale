@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chronique/les-etres/humains/","dg-note-properties":{"lastSync":"Wed Apr 22 2026 12:35:08 GMT+0200 (Central European Summer Time)","Source":"[[Lore-Commun/Races-Generiques/Humain/Humains|Humain]]"}}
+{"dg-publish":true,"permalink":"/chronique/les-etres/humains/","dg-note-properties":{"lastSync":"Thu Apr 23 2026 11:25:00 GMT+0200 (heure d’été d’Europe centrale)","Source":"[[Lore-Commun/Races-Generiques/Humain/Humains|Humain]]"}}
 ---
 
 ![Human.png](/img/user/Images/Concept/Human.png)
@@ -59,7 +59,7 @@ J’ai remarqué aussi ceci : leur visage change vite. Le temps s’y imprime sa
 
 On les décrit souvent comme bruyants, pressés, incohérents. Des voisins difficiles à ignorer, encore plus difficiles à stabiliser dans une image simple.
 
-Les [[Lore-Commun/Races-Generiques/Elfe/Elfes\|elfes]] les jugent précipités. Les [[Lore-Commun/Races-Generiques/Nain/Nains\|nains]] les trouvent légers. Pourtant, aucun ne les considère sans attention.
+Les [[Lore-Commun/Races-Generiques/Elfe/Elfes\|Lore-Commun/Races-Generiques/Elfe/Elfes]] les jugent précipités. Les [[Chronique/Les êtres/Nains\|nains]] les trouvent légers. Pourtant, aucun ne les considère sans attention.
 
 Car là où ils passent, quelque chose se transforme. Pas toujours en bien, pas toujours en mal. Mais jamais sans conséquence.
 

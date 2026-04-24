@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chronique/phantasia/","tags":["gardenEntry"],"dg-note-properties":{"lastSync":"Wed Apr 22 2026 11:10:00 GMT+0200 (Central European Summer Time)"}}
+{"dg-publish":true,"permalink":"/chronique/phantasia/","tags":["gardenEntry"],"dg-note-properties":{"lastSync":"Wed Apr 22 2026 11:10:08 GMT+0200 (Central European Summer Time)"}}
 ---
 
 J'ai vu ces terres naître, grandir, se déchirer, panser ses plaies.

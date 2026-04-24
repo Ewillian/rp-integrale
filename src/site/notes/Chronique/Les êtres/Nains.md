@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/chronique/les-etres/nains/","dg-note-properties":{"lastSync":"Thu Apr 23 2026 00:48:59 GMT+0200 (Central European Summer Time)","Source":"[[Lore-Commun/Races-Generiques/Nain/Nains|Nain]]"}}
+{"dg-publish":true,"permalink":"/chronique/les-etres/nains/","dg-note-properties":{"lastSync":"Thu Apr 23 2026 13:52:54 GMT+0200 (heure d’été d’Europe centrale)","Source":"[[Lore-Commun/Races-Generiques/Nain/Nains|Nain]]"}}
 ---
 
+![Dwarf.png](/img/user/Images/Concept/Dwarf.png)
 Je les ai longtemps confondus avec leur réputation : une [[Maitrise/Templates/Race\|race]] dure, lente, tournée vers la pierre comme si elle était leur seule vérité. C’est une erreur commode, mais incomplète.
 
 Les [[Chronique/Les êtres/Nains\|nains]] ne sont pas faits de pierre. Ils sont faits de durée.
@@ -10,7 +11,7 @@ On les dit stables. C’est vrai, mais ce mot est trop léger. Ils ne sont pas s
 
 Je les ai observés penser en couches, comme si le présent n’existait jamais seul. Une décision n’est jamais une rupture, mais un dépôt supplémentaire sur une structure déjà ancienne. Cela leur donne une forme de cohérence que d’autres peuples confondent parfois avec de la rigidité.
 
-![Pasted image 20260422164706.png](/img/user/Pasted%20image%2020260422164706.png)
+![DwarfMale.png](/img/user/Images/Personnage/DwarfMale.png)
 
 Leur apparence reflète cette logique.
 
@@ -20,7 +21,7 @@ Avec le temps, ils changent peu, mais profondément. Certaines surfaces de leur 
 
 Leur voix aussi change peu. Elle reste basse, stable, presque invariable, comme si elle provenait d’un espace plus profond que celui du souffle.
 
-![Pasted image 20260422164643.png](/img/user/Pasted%20image%2020260422164643.png)
+![DwarfFem.png](/img/user/Images/Personnage/DwarfFem.png)
 
 
 Ils ne vivent pas dans la pierre. C’est une nuance importante qu’ils tiennent à préserver.
@@ -31,7 +32,7 @@ Leurs cités ne sont pas des conquêtes du sous-sol, mais des négociations avec
 
 Je ne sais pas si c’est de la prudence ou une forme de respect fondamental. Peut-être les deux. Ils parlent de la roche comme d’un hôte. Et ils agissent en conséquence.
 
-![Pasted image 20260422164724.png](/img/user/Pasted%20image%2020260422164724.png)
+![Lormak.png](/img/user/Images/Lieu/Lormak.png)
 
 Il existe chez eux quelque chose que les autres peuples appellent rancune, faute de meilleur terme. Mais ce n’est pas une émotion simple. C’est un registre.
 
@@ -62,7 +63,7 @@ Cela explique peut-être leur patience. Ou leur intransigeance. Ou les deux.
 
 Je les observe avec une forme de prudence différente de celle que j’accorde aux autres peuples.
 
-Les [[Chronique/Les êtres/Humains\|humains]] transforment vite. Les [[Lore-Commun/Races-Generiques/Elfe/Elfes\|elfes]] perdurent doucement. Les [[Chronique/Les êtres/Nains\|nains]], eux, **conservent et accumulent** jusqu’à devenir quelque chose que le temps lui-même semble respecter — ou contourner.
+Les [[Chronique/Les êtres/Humains\|humains]] transforment vite. Les [[Chronique/Les êtres/Elfes\|elfes]] perdurent doucement. Les [[Chronique/Les êtres/Nains\|nains]], eux, **conservent et accumulent** jusqu’à devenir quelque chose que le temps lui-même semble respecter — ou contourner.
 
 Je ne sais pas encore si c’est une force.
 Mais c’est une structure qui, elle, ne cède pas facilement.

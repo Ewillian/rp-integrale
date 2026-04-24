@@ -4,7 +4,7 @@
 
 Le ciel de [[Chronique/Phantasia\|Phantasia]] n’est pas un simple écrin d’étoiles. Il est vivant, changeant, traversé par la présence de plusieurs [[Chronique/Environnement/Lunes\|lunes]] qui n’apparaissent jamais tout à fait de la même manière. Tantôt seules, tantôt réunies, elles composent un langage silencieux que les peuples d’en bas interprètent sans jamais vraiment le comprendre.
 
-![Pasted image 20260422104954.png](/img/user/Pasted%20image%2020260422104954.png)
+![[Pasted image 20260422104954.png\|Pasted image 20260422104954.png]]
 
 L’une d’elles, Nyxara, domine les autres par son ampleur et son obscurité. Sa lumière n’éclaire pas — elle absorbe. Par moments, elle se pare de reflets violacés, à d’autres elle s’embrase d’un pourpre profond qui semble avaler les ténèbres elles-mêmes. Lorsqu’elle s’élève, quelque chose se densifie dans l’air. Les ombres s’étirent au-delà de leur forme, vibrent d’une présence inhabituelle, comme si elles hésitaient à rester de simples silhouettes. Il arrive même que certaines présences oubliées semblent répondre à son appel, liées à ce qui fut, mais refuse encore de disparaître.
 
