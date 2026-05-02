@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/chronique/environnement/lunes/","dg-note-properties":{"lastSync":"Wed Apr 22 2026 10:49:58 GMT+0200 (Central European Summer Time)","Monde":["[[Univers/Phantasia/Phantasia|Phantasia]]"],"Source":"[[Univers/Phantasia/Lore/Lunes|Lunes]]"}}
+{"dg-publish":true,"permalink":"/chronique/environnement/lunes/","dg-note-properties":{"lastSync":"Thu Apr 23 2026 13:51:59 GMT+0200 (heure d’été d’Europe centrale)","Monde":["[[Univers/Phantasia/Phantasia|Phantasia]]"],"Source":"[[Univers/Phantasia/Lore/Lunes|Lunes]]"}}
 ---
 
 Le ciel de [[Chronique/Phantasia\|Phantasia]] n’est pas un simple écrin d’étoiles. Il est vivant, changeant, traversé par la présence de plusieurs [[Chronique/Environnement/Lunes\|lunes]] qui n’apparaissent jamais tout à fait de la même manière. Tantôt seules, tantôt réunies, elles composent un langage silencieux que les peuples d’en bas interprètent sans jamais vraiment le comprendre.
 
-![[Pasted image 20260422104954.png\|Pasted image 20260422104954.png]]
+![VampyrAndMoon.png](/img/user/Images/Concept/VampyrAndMoon.png)
 
 L’une d’elles, Nyxara, domine les autres par son ampleur et son obscurité. Sa lumière n’éclaire pas — elle absorbe. Par moments, elle se pare de reflets violacés, à d’autres elle s’embrase d’un pourpre profond qui semble avaler les ténèbres elles-mêmes. Lorsqu’elle s’élève, quelque chose se densifie dans l’air. Les ombres s’étirent au-delà de leur forme, vibrent d’une présence inhabituelle, comme si elles hésitaient à rester de simples silhouettes. Il arrive même que certaines présences oubliées semblent répondre à son appel, liées à ce qui fut, mais refuse encore de disparaître.
 
